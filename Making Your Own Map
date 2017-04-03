@@ -1,0 +1,42 @@
+It's surprisingly easy to play god in Civilization V. Creating a compelling and carefully balanced scenario can be almost as addictive as playing the game. The good news is, thanks to the slick world editor, making maps in Civilization V is surprisingly easy as well. You don't need to know how to code, and you won't need to sacrifice your firstborn to the cyber gods to create your first map. Follow these six easy steps and you could be playing Civilization on a planet of your own creation in no time at all.
+
+1. Tools of the trade
+
+First of all you'll need to download the Civilization V world builder itself. Open up Steam and head to the 'Tools' section of your games library, find Sid Meier's Civilization V SDK and install it. Once the small download has finished you can launch the SDK at any time straight from this menu.
+
+On launching the SDK a pop up menu will offer you several options. Specialised editing tools for artists and modders can be found here, but the one we're interested is the 'WorldBuilder'. Select this and, once it's loaded up, select 'New Map'.
+
+2. Brand new world
+
+This is the first screen you'll be confronted with when booting up the SDK. The two sliders at the top left represent the x and y axis of your map, use these to change the size of the world and then press the 'Generate Blank Map' button to see your resized map in the main view.
+
+Now you have two options. You can take your naked, oceanic world forward into the main editor, and lovingly hand place every tile, or have the editor randomly generate some terrain for you to work from. To do this, use the drop down menu at the bottom left of the screen and select the type of world you want the editor to create. You can choose anything from 'Archipelago' to 'Ice Age'. The drop down menus below will let you edit other aspects of your world, such as how old it is, the amount of rainfall and the sea level. Select the options you want and then press the grey 'Generate with…' icon to see what the SDK spits out. Once you're happy with what you've got, press 'Accept Map' to head into the editor proper.
+
+3. Mould the earth
+
+This is where the magic happens. On this screen you'll be able to fine tune every aspect of your map. The first thing we need to do now is create some terrain.
+
+This part's really fun. You can raise mountains, throw down jungles and sew rivers into the terrain by simply painting tiles onto the ocean. At the top right you'll notice a series of tabs under the heading 'Map Editor Tools'. The fastest way to create your world is using the 'paint' tab. First, set the size and shape of your brush with the top two options, and then make sure the 'Terrain' pip is checked in the list of options below. In the drop down menu below 'Terrain' you'll be able to select anything from grassland to mountains. Now simply paint your map into existence in the main view.
+
+If you want to add rivers, go to the 'River' tab. Clicking this will turn your map into a horrible mess of blue dots. Click on the dots and link them up to add bubbling brooks into your world. To add ruins for players to discover, head to the 'Plopper' tab and select the 'Improvements' pip. The attached drop down menu will let you place special tiles such as encampments, ancient ruins and ready made mines in the world.
+
+4. And then there was man
+
+Good work. You've created a paradise. It's a quiet and peaceful place that belongs to nature alone. There's no war, or death, or squabbling politicians to trouble your idyllic new Eden. In other words, it's boring. Let's add some civilizations to the mix!
+
+Look to the top of the screen and select the 'Scenario Editor' tab. This will let you set the general parameters of the game, including the speed of the game, the starting date and win conditions. At the bottom left of this window there's a blank box with a 'Players' tab at the top. Hitting the small plus sign will add a nation to your scenario, and open up a series of options in the centre of the screen. These will let you tailor choose which nation you want to add, their policies, their starting relationship to other players on the map and even the technologies they start with.
+
+I have decided to create a small single player scenario that will sandwich the player between two warring states. The first nation I've added is America. Here I've made sure that the 'Playable' tab is checked, and that the nation belongs to 'Team 1'. Then I've added the two antagonists, the old foes England and France. To spice things up I've given them a series of military policies right off the bat, set them to belong to 'Team 2' and 'Team 3' respectively, and then made them hate each other using the diplomacy options on the right. To do this I selected 'At war with' from the diplomacy drop down menu, and then made sure 'Team 2' (England) was at war with 'Team 3' (France).
+
+To place cities belonging these nations into your map, select the 'Cities' tab from the now familiar 'Map Editor Tools' section at the top right of the screen. Select the nationality of the city you want to place and then simply click a tile in the main view to plop down a city. Checking the 'Edit' pip in the 'Cities' tab will then let you rename the city, set its health, population and add additional buildings.
+
+5. There's Uranium in them hills
+
+Advertisement
+We're nearly done, but there's something very important missing from our map. Our civilizations won't last long without resources. These are probably the most important element in creating a successful scenario. You can manipulate the nations in your scenario by giving them technologies and policy tendencies that will cause them to want one type of resource, then you can stick that resource somewhere dangerous or hard to get to encourage conflict, and add some strategic depth to your map.
+
+If you want a straightforward, even scattering of resources to work from, select the 'Misc' tab in the Map Editor Tools, and then press 'Scatter Resources'. You can press this a few times until you're happy with the overall layout, and then customise the most precious resources from there.
+
+6. Play your map
+
+There's one final thing you need to do before you can dive into your creation. Exit WorldBuilder and start up the Civilization V SDK. This time, instead of the WorldBuilder, select ModBuddy. Once in Modbuddy, select File > New > Project, then select 'Map Pack' from the two options and press 'OK'. Enter the title of your mod and a description, if you eventually publish your mod, this is the part that players will see before deciding whether they want to download it. Finally click 'Add Map' and add your creation from the list. With this done, head to the taskbar at the top of the screen and select 'Build' and build your map pack. This should install your map in the Civ V directory. If you want to make any future alterations to your creation, be sure to rebuild it in ModBuddy.
