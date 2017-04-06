@@ -8,9 +8,9 @@ On launching the SDK, a pop up menu will offer you several options. Specialised 
 
 2. Brand new world
 
-This is the first screen you'll be confronted with when booting up the SDK. The two sliders at the top left represent the x and y axis of your map, use these to change the size of the world and then press the 'Generate Blank Map' button to see your resized map in the main view.
+This is the first screen you will be confronted with when booting up the SDK. The two sliders at the top left represent the x and y axis of your map, use these to change the size of the world and then press the 'Generate Blank Map' button to see your resized map in the main view.
 
-Now you have two options. You can take your naked, oceanic world forward into the main editor, and lovingly hand place every tile, or have the editor randomly generate some terrain for you to work from. To do this, use the drop down menu at the bottom left of the screen and select the type of world you want the editor to create. You can choose anything from 'Archipelago' to 'Ice Age'. The drop down menus below will let you edit other aspects of your world, such as how old it is, the amount of rainfall and the sea level. Select the options you want and then press the grey 'Generate with…' icon to see what the SDK spits out. Once you're happy with what you've got, press 'Accept Map' to head into the editor proper.
+Now you have two options. You can take your naked, oceanic world forward into the main editor, and hand place every tile, or have the editor randomly generate terrain for you. To do this, use the drop down menu at the bottom left of the screen and select the type of world you want the editor to create. You can choose anything from 'Archipelago' to 'Ice Age'. The drop down menus below will let you edit other aspects of your world, such as how old it is, the amount of rainfall and the sea level. Select the options you want and then press the grey 'Generate with…' icon to see what the SDK spits out. Once you are happy with what you have got, press 'Accept Map' to head into the editor property.
 
 3. Mould the earth
 
